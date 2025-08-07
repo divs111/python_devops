@@ -3,6 +3,8 @@ num2 = 3.5
 
 res1 = num1 + num2
 print(f"Addition is {res1}")
+print("addition is "+ str(res1))
+print("addition is " , res1)
 
 res2 = num1 - num2
 print(f"Subtraction is {res2}")
