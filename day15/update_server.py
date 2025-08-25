@@ -11,5 +11,5 @@ def update_server_config(filename,key,value):
 
 server_config_file = 'server.config'
 key_name = 'MAX_CONNECTIONS'
-new_value = '1000'
+new_value = '100'
 update_server_config(server_config_file,key_name,new_value)
